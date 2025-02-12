@@ -16,6 +16,8 @@ Right now, I am involved in the healthcare project, which includes the admin par
 :bug: Bug reports examples: [link](https://docs.google.com/spreadsheets/d/1H5QaCzlpfuZdwku5jCB9_LSAIAK1DDb1Iga48Se7-dc/edit?usp=drive_link)  
 :page_with_curl: Test Plan examples: TBD  
 :page_with_curl: Test Strategy examples: TBD  
+:film_strip: Postman practice video: [link](/postman%20github%20jenkins%20practice.mp4)  
+:film_strip: Xcode practice video: [link](/xcode%20install%20app.mp4)
 
 ## Tools
 - Postman
